@@ -27,6 +27,10 @@ namespace Ejercicios.EJ2
             Persona p2 = new Persona(nombre, edad, sexo, peso, altura);
             Persona p3 = new Persona(nombre, edad, sexo);
 
+            p1.Altura = 1.2;
+            p1.Edad = 20;
+            p1.Peso = 57;
+
             IMC(p1);
             IMC(p2);
             IMC(p3);
