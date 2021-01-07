@@ -40,6 +40,7 @@ namespace Ejercicios
                     ej6.Ejercicio();
                     break;
             }
+            // Ejercicio 8 hecho
         }
     }
 }
