@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ejercicios",
+    "\\Ejercicios\\Ejercicios",
+    "\\Ejercicios\\Ejercicios\\EJ4",
+    "\\Ejercicios\\Ejercicios\\EJ5"
   ],
+  "SelectedNode": "\\Ejercicios\\Ejercicios\\EJ4\\Electrodomestico.cs",
   "PreviewInSolutionExplorer": false
 }

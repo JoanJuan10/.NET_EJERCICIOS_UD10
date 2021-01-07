@@ -1,0 +1,4 @@
+C:\Users\Joan\source\repos\JoanJuan10\.NET_EJERCICIOS_UD10\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csprojAssemblyReference.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_EJERCICIOS_UD10\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_EJERCICIOS_UD10\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\Joan\source\repos\JoanJuan10\.NET_EJERCICIOS_UD10\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.CoreCompileInputs.cache

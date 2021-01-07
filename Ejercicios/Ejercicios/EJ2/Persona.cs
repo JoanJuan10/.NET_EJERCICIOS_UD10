@@ -49,7 +49,7 @@ namespace Ejercicios.EJ2
 
         public string Nombre { get => nombre; set => nombre = value; }
         public int Edad { get => edad; set => edad = value; }
-        public string Dni { get => dni }
+        public string Dni { get => dni; }
         public char Sexo { get => sexo; set => sexo = value; }
         public double Peso { get => peso; set => peso = value; }
         public double Altura { get => altura; set => altura = value; }
