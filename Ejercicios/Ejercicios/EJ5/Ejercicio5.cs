@@ -48,6 +48,7 @@ namespace Ejercicios.EJ5
             }
             Console.WriteLine(arr1[masTemporadas].toString());
             Console.WriteLine(arr2[masHoras].toString());
+            //Ejercicio 5
         }
     }
 }
